@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/res_name"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:textSize="27sp"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <ListView
+        android:id="@+id/lv_items"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9">
+
+    </ListView>
+
+
+    <Button
+        android:id="@+id/btn_cart"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_orange_dark"
+        android:gravity="center"
+        android:text="My cart"
+        android:textColor="@android:color/black"
+        android:textSize="17sp" />
+
+</LinearLayout>

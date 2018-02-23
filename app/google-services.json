@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977562963865",
+    "firebase_url": "https://readbarcode-d95da.firebaseio.com",
+    "project_id": "readbarcode-d95da",
+    "storage_bucket": "readbarcode-d95da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977562963865:android:469fccc4ec184302",
+        "android_client_info": {
+          "package_name": "com.lalit.readbarcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977562963865-qlr3ulb3pc70pmetstcr84t4ak055g5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lalit.readbarcode",
+            "certificate_hash": "4e5236efde7e17b96fe3c20d54d3f3007f5bd1aa"
+          }
+        },
+        {
+          "client_id": "977562963865-pkcs83i88u204001put209snqbp1fpf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ5UIDY58eSigIEp0AHt0PP6vjTAaIdAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977562963865-pkcs83i88u204001put209snqbp1fpf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
